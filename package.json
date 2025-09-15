@@ -1,0 +1,28 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoCondom-team/rus-to-kz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoCondom-team/rus-to-kz/issues"
+  },
+  "homepage": "https://github.com/NoCondom-team/rus-to-kz#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "franc": "^6.2.0",
+    "he": "^1.2.0",
+    "minimist": "^1.2.8",
+    "p-limit": "^7.1.1"
+  }
+}
